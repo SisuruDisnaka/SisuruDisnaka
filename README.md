@@ -8,7 +8,7 @@
 ### 🌱 Currently Pursuing
 
 - **B.Comp (Hons) in Software Engineering** at [University of Sri Jayawardenepura](https://www.sjp.ac.lk/)
-- **B.Sc (Hons) in Information Technology**, specializing in **Data Science**, at [SLIIT](https://www.sliit.lk/)
+- **B.Sc (Hons) in Information Technology**, specializing in **Artificial Intelligence**, at [SLIIT](https://www.sliit.lk/)
 
 ---
 
