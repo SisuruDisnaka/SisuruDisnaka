@@ -29,20 +29,6 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ---
-
-### 🛠️ My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SisuruDisnaka&theme=tokyonight" alt="GitHub Streak"/>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=SisuruDisnaka&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight" alt="GitHub Stats"/>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SisuruDisnaka&theme=tokyonight&layout=compact" alt="Top Languages"/>
-</p>
-
----
-
-
 ### 🤙 Connect with Me
 
 <p align="center">
@@ -50,11 +36,11 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://fb.com/sisurudsnk" target="_blank">
+  <a href="https://fb.com/sisurudisnaka" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/sisurudsnk" target="_blank">
+  <a href="https://instagram.com/sisurudisnaka" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
   </a>
 </p>
@@ -63,10 +49,3 @@
   📧 <a href="mailto:sisurudisnaka001@gmail.com">sisurudisnaka001@gmail.com</a>
 </h3>
 
----
-
-### 😄 Dev Joke of the Day
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Joke Card"/>
-</p>
